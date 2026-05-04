@@ -5,7 +5,7 @@ GREEN='\033[0;32m'
 NC='\033[0m'
 
 # ── GitHub Raw Link ───────────────────────────────────────────────────────
-START_SH_URL="https://raw.githubusercontent.com/sahu-dev-hub/shortcus-scrips/main/start.sh"
+START_SH_URL="https://raw.githubusercontent.com/sahu-dev-hub/nath-scripts/refs/heads/main/start.sh"
 
 # ── NATH SCRIPTS Banner ───────────────────────────────────────────────────
 echo -e "${GREEN}"
