@@ -29,13 +29,8 @@ bash setup.sh
 
 <b>NOTE:</b> Jab Aap Ko Kahe "Apna Shortcu Name Type Kare" Tab Aap Wahi Name Ya Word Type Kare Jis Name/Word Se App Desktop Start Karna Chahte Hai..
 
-5. Jab Setup Complete Ho Jaye Tab Ek Baar Ye Command Run Kare...
-
-   ```bash
-   source ${RC_FILE}
-   ```
    
-6. Ek Baar Termux Ko Restart Kare..
+5. Ab Ek Baar Termux Ko Restart Kare..
 
    ```bash
    exit
